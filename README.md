@@ -9,9 +9,13 @@ This project helps both buyers and sellers estimate the fair market value of a c
 **💡 What Does This Project Do?**
 
 ✔️ Collects and analyzes car dataset information
+
 ✔️ Performs data cleaning and preprocessing
+
 ✔️ Trains Machine Learning models on historical car data
+
 ✔️ Predicts the estimated resale price of a car
+
 ✔️ Provides real-time predictions through a web application
 
 The user simply enters car details, and the system instantly predicts the expected car price.
