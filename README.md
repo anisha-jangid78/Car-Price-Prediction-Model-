@@ -46,6 +46,7 @@ VS Code
 
 
 **📖 Project Summary**
+
 The Car Price Prediction System is a Machine Learning-based application designed to estimate the resale value of used cars. The project follows the complete Machine Learning workflow, including:
 
 🔹 Data Collection
