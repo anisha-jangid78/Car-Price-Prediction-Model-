@@ -21,53 +21,79 @@ This project helps both buyers and sellers estimate the fair market value of a c
 The user simply enters car details, and the system instantly predicts the expected car price.
 
 **🛠️ Tech Stack****
+
 👨‍💻 Programming Language**
-Python**
-📚 Libraries & Frameworks**
+Python
+
+📚 Libraries & Frameworks
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
 
 **💻 Development Tools**
+
 Jupyter Notebook
+
 VS Code
-Git & GitHub
+
+
 
 **📖 Project Summary**
 The Car Price Prediction System is a Machine Learning-based application designed to estimate the resale value of used cars. The project follows the complete Machine Learning workflow, including:
 
 🔹 Data Collection
+
 🔹 Data Cleaning
+
 🔹 Exploratory Data Analysis (EDA)
+
 🔹 Feature Engineering
+
 🔹 Model Training
+
 🔹 Model Evaluation
+
 🔹 Model Deployment
 
 Different regression algorithms are applied, and the best-performing model is selected to achieve higher prediction accuracy.
 
 **✨ Features of the Project**
+
 🔍 Smart Price Prediction
+
 Predicts the approximate selling price of a car based on user inputs.
 
 📊 Data Analysis & Visualization
+
 Performs detailed analysis of the car dataset using graphs and charts.
 
 🤖 Multiple ML Algorithms
+
 Implements and compares different Machine Learning models such as:
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
 
+
 🌐 Web-Based Interface
+
 Provides an interactive and user-friendly interface for predictions.
 
 💾 Model Saving
+
 Uses Pickle to save and load the trained Machine Learning model.
 
 ⚡ Real-Time Results
+
 Generates instant price predictions with high efficiency.
 
 **🎉 Conclusion**
