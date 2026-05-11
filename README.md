@@ -1,4 +1,5 @@
 **Car Price Prediction Model Using Machine Learning**
+
 🎯 Objective
 
 The primary objective of this project is to develop a Machine Learning model that can accurately predict the selling price of used cars based on various features such as brand, manufacturing year, fuel type, kilometers driven, transmission type, and ownership history.
